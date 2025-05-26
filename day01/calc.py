@@ -1,0 +1,21 @@
+print("더하기",10+20)
+print("더하기",20-10)
+print("더하기",10*20)
+print("더하기",20/2)
+print("더하기",10**2)
+print("더하기",10**3)
+print("더하기",10/3)
+print("더하기",10//3)
+print("더하기",10%3)
+print(10>3)
+print(10<3)
+print(10==3)
+print(10!=3)
+print(True and False)
+print(True or False)
+print(not True)  #아이스크림....
+
+my_list = ['a',2,'hello',3]
+print('a' in my_list)
+print('hell' in my_list)
+print('helll' in 'hello python')
