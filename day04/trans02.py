@@ -25,7 +25,7 @@ asyncio.run(main())
 # import inspect
 # import asyncio
 # print(inspect.iscoroutinefunction(googletrans.Translator().translate))  
-# #만약 false이면
+# #만약 false이면 위에꺼 지우고 아래쪽 걸로 실행
 
 # def main() :
 #     translator = googletrans.Translator()
